@@ -1,3 +1,22 @@
+## 👋 About Me:
+---
+Hi, I'm Hồng Phúc (Ethan) — a third-year student majoring in Knowledge Engineering at HCMUS.  
+I’m passionate about learning and working hard, with strong curiosity and solid communication skills.  
+My goal is to become an AI Engineer, building real-world applications that blend intelligence, efficiency, and creativity.
+
+🚀 Currently exploring:
+- Natural Language Processing with PhoBERT & mBART
+- AMR parsing and semantic understanding for Vietnamese
+- OCR for historical texts
+- AI automation for daily tasks and e-commerce
+
+🛠️ Tools & Tech I work with:
+Python · PyTorch · HuggingFace · Git · Pandas · LaTeX · FastAPI · Linux
+
+🌱 Always growing — one model, one line of code, one idea at a time.
+----
+
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hong.phuc.100471) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hong-phuc-92aa89279/) 
@@ -17,9 +36,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Phucgiacat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Ethan) 
-
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
