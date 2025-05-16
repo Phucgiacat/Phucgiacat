@@ -18,6 +18,7 @@ Python · PyTorch · HuggingFace · Git · Pandas · LaTeX · FastAPI · Linux
 
 
 
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hong.phuc.100471) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hong-phuc-92aa89279/) 
 
@@ -34,4 +35,4 @@ Python · PyTorch · HuggingFace · Git · Pandas · LaTeX · FastAPI · Linux
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-  
+---
